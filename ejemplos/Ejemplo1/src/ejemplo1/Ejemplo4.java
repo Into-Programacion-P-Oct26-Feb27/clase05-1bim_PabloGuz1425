@@ -36,5 +36,5 @@ public class Ejemplo4 {
                     promedio);
         } // -------------
     }
-
+// El next.Line sirve de manera que cuando se cambia de un double a un string no haga que se pierda la linea String
 }
